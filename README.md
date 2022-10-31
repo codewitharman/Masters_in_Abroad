@@ -1,9 +1,12 @@
 
 
-In this project I have used concepts of core java like OOP's , constructor,scanner class,Upcasting etc.
-In Masters in abroad project class Country is Genralized class and Country names -USA,Germany etc, University, Masters course , Masters details  this are specialized classes. In which I have used parameterized constructor to Initialize various parameters of my masters program details like Program name,Exams Require like IELTS,CAT,GRE  Program Fees, Scholarship availability, University rank Globally, Masters program duration in years .
+In this project, I have used concepts of core java like OOPs, constructors, scanner class, Upcasting etc.
+In Masters in abroad project class Country is a Generalized class and Country names -USA, Germany etc, University, Master's course, and Master's details are specialized classes. I have used parameterized constructor to Initialize various parameters of my master's program details like Program name, Exams Require like IELTS, CAT, GRE  Program Fees, Scholarship availability, University rank Globally, and Master's program duration in years.
 In my driver class which is class Msabroad.
-In my main method I have used scanner class to get user input. To get user input form user for selecting Countries , Univeristies and Masters course in it.
-I have used Switch method also. with the help of switch case user can choose input  to enter. and this is how I have used for all the countries present in my program
-Now last part which is if user wants to stay on that page or not.
-with the help of user input he can exit or if he wants to the he can choose another courses from various countries.
+In my main method, I have used the scanner class to get user input. To get user input from users for selecting the countries, Universities and Master's courses in it.
+I have used the Switch method also. with the help of a switch case, the user can choose the input to enter. and this is how I have used for all the countries present in my program
+Now last part is if the user wants to stay on that page or not.
+with the help of user input he can exit or if he wants to he can choose other courses from various countries.
+
+
+
